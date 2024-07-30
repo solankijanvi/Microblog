@@ -1,7 +1,7 @@
 # Microblog
 A simple microblogging web application built with Flask.
 
-##Features
+## Features
 - User registration and authentication
 - Create, edit, and delete posts
 - View all posts on the homepage

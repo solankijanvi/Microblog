@@ -1,5 +1,5 @@
 # Microblog
-A simple microblogging web application built with Flask.
+A  microblogging web application built with Flask.
 
 ## Features
 - User registration and authentication
